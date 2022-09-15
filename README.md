@@ -11,4 +11,4 @@ mae with 50000 leaf nodes: 207143.62285376125;
 Random forest regression without a node selected
 will give a prediction (mae 207190, no nodes specified)
 as close as possible to the best prediction (mae 207143)
-with 500 leaf nodes selected
+with 5000 leaf nodes selected
